@@ -119,5 +119,5 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <i>“Progress isn’t just tracked — it’s built.”</i>
+  <i>“Programming is kinda cool”</i>
 </p>
