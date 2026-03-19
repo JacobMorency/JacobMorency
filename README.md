@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <!-- ======================================== -->
 
-<h1 align="center">Hey, I'm Jacob 👋</h1>
+<h1 align="center">Hey, I'm Jacob 😎</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(React+%2F+Node.js);Building+real-world+apps+with+clean+UX;Focused+on+impact%2C+not+just+code" />
@@ -32,9 +32,8 @@
 ## 🚧 Currently Building
 
 - 🏋️ **Rive Workout Tracker** – Progressive overload tracking with real UX focus  
-- 📱 **Boop** – Habit + relationship tracking app (mobile-first)  
+- 📱 **Boop** – Cross platform social push notification app  
 - ⚙️ **Rive API** – Scalable backend for workout data & performance tracking  
-- 🔄 Continuously improving **.NET + backend architecture skills**
 
 ---
 
@@ -98,7 +97,7 @@
 
 ## 🎯 What I Care About
 
-- Building apps that people **actually use**
+- Building apps that I **actually use**
 - Clean, intuitive **UI/UX**
 - Strong **backend structure & data flow**
 - Continuous improvement — both in code and real life
