@@ -23,6 +23,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobMorency&theme=tokyonight&hide_border=true" height="150"/>
 </p> -->
 
+<!-- ======================================== -->
+<!-- SKILLS -->
+<!-- ======================================== -->
+
+## 🧠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,cs,dotnet,supabase,postgres,tailwind,git" />
+</p>
+
+---
 
 <!-- ======================================== -->
 <!-- CURRENTLY -->
@@ -78,17 +89,6 @@
 
 ---
 
-<!-- ======================================== -->
-<!-- SKILLS -->
-<!-- ======================================== -->
-
-## 🧠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,cs,dotnet,supabase,postgres,tailwind,git" />
-</p>
-
----
 
 <!-- ======================================== -->
 <!-- PHILOSOPHY -->
