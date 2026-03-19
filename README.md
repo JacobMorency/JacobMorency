@@ -51,7 +51,7 @@
 
 ---
 
-### 📱 Boop – Habit & Relationship App  
+### 📱 Boop – Cross Plaform Social Push Notifcation App  
 > A mobile app designed to improve consistency and communication  
 
 - Built with **React Native + Expo**
